@@ -160,6 +160,10 @@ h1 {
   transform: translateY(-2px);
 }
 
+.policy-card + .policy-card {
+  margin-top: 12px;
+}
+
 .policy-card strong,
 .policy-card small {
   display: block;
@@ -262,4 +266,3 @@ footer {
     padding: 28px 0;
   }
 }
-
